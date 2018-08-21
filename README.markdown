@@ -1,3 +1,5 @@
+# THIS PROJECT IS NO LONGER MAINTAINED
+
 # go-librato
 
 go-librato is a Go client library for accessing the [Librato API][].
